@@ -1,0 +1,8 @@
+rectangle 1
+-----------------------
+Technically not unseen. It's not black, but transparent. It is the second frame of the red camera recording
+circle to make it blink
+
+rectangle 15
+-----------------------
+Technically not unseen. It's used on the 6am screen to clip the numbers as it scrolls from 5 to 6

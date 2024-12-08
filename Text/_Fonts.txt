@@ -1,0 +1,52 @@
+This identifies the font used in each text image
+The format of the font (size, bold, italic, etc.) is not identified
+
+Individual:
+------------------------------------------------------
+warning - Tahoma
+demo ending - Tahoma
+title - Consolas
+new game - Consolas
+continue - Consolas
+6th night - Consolas
+custom night - Consolas
+demo - Consolas
+night menu - Consolas
+version number - Consolas
+copyright notice - Consolas
+lives - Consolas
+customize night - Consolas
+AI level - Consolas
+freddy - Consolas
+bonnie - Consolas
+chica - Consolas
+foxy - Consolas
+difficulty - Consolas
+night start 1 - LCD Solid
+night start 2 - LCD Solid
+night start 3 - LCD Solid
+night start 4 - LCD Solid
+night start 5 - LCD Solid
+night start 6 - LCD Solid
+night start 7 - LCD Solid
+camera disabled - LCD Solid
+AM small - LCD Solid
+AM large - LCD Solid
+night in game - LCD Solid
+power left - LCD Solid
+percent - LCD Solid
+usage - LCD Solid
+5 - LCD Solid
+6 - LCD Solid
+game over - Lucida Sans Unicode
+
+Folders:
+------------------------------------------------------
+locations - LCD Solid
+buttons camera - LCD Solid
+numbers small - LCD Solid
+numbers large - LCD Solid
+numbers medium - Tahoma
+numbers black small - Tahoma
+numbers black large - Tahoma
+AI levels - Consolas
