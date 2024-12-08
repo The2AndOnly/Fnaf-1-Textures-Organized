@@ -13,6 +13,15 @@ https://store.steampowered.com/search/?developer=Scott%20Cawthon
 Note: None of the categories contain unused textures except for the "Unused" category
 If you can't find something, check the "Unused" category
 
+
+Download
+-----------------------
+- Download every texture by clicking Code > Download ZIP
+- After downloading the ZIP file, extract it
+- In order to make things more clear, sort everything by name. On Windows 11,
+set the view to Large icons to see previews of the textures. On Windows 11, set Sort > Group by to None
+
+
 Explanation of categories:
 
 UI & Misc
